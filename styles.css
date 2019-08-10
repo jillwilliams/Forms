@@ -1,0 +1,78 @@
+body {
+    background-color: dimgray;
+    color: red;
+    text-shadow: 1px 1px 1px black;
+    font-size: 3rem;
+    font-family: Long Cang, cursive;
+    letter-spacing: 3px;
+    margin-top: 5px;
+}
+#submitEmail {
+    width: 30%;
+    height: 70px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 25px;
+    border: 1px red solid;
+    outline: 2px black solid;
+    text-align: center;
+    font-size: 1.2rem;
+    color: red;
+    background-color: black;
+    font-family: Beth Ellen, cursive;
+    letter-spacing: 3px;
+}
+#submitEmail:hover {
+    border: 1px black solid;
+    outline: 2px red solid;
+    color: black;
+    background-color: red;
+
+}
+#name, #date, #email, #message {
+    width: 90%;
+    height: 50px;
+    color: orange;
+    font-size: 1.8rem;
+    border: 1px black solid;
+    outline: 2px orange solid;
+    background-color: black;
+    padding: 15px;
+
+}
+#name:hover, #date:hover, #email:hover, #message:hover {
+    border: 1px black solid;
+    background-color: white;
+    color: black;
+
+}
+#demo {
+    width: 40%;
+    height: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px black solid;
+    outline: 2px red solid;
+    color: white;
+    background-color: black;
+}
+#teethbite { 
+    width: 20%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 75%;
+    margin-top: 100px;
+    border: 1px black solid;
+    outline: 1px orange solid;
+}
+#hauntedHouse {
+    width: 20%;
+    height: auto;
+    margin-left: 75%;
+    margin-right: 5%;
+    margin-top: -130px;
+    margin-bottom: 5px;
+    border: 1px black solid;
+    outline: 1px orange solid;
+
+}
